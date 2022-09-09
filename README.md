@@ -1,1 +1,1 @@
-Live Server: https://reyneltero.github.io/Waving-Penguin/
+Live: https://reyneltero.github.io/Waving-Penguin/
